@@ -1,3 +1,5 @@
+Watch the Video for an overview
+
 # Cyclistic Bike-Share Analysis
 
 ## Overview
